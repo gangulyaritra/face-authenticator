@@ -1,0 +1,14 @@
+bcrypt
+deepface==0.0.75
+dill
+fastapi
+pandas
+passlib
+Pillow
+pymongo
+python-dotenv
+python-jose
+python-multipart
+PyYAML
+uvicorn
+-e .
